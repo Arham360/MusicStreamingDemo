@@ -42,6 +42,7 @@ public class DemoActivity extends AppCompatActivity implements
 
     private static final String CLIENT_ID = "089d841ccc194c10a77afad9e1c11d54";
     private static final String REDIRECT_URI = "testschema://callback";
+
     private static final String TEST_SONG_URI = "spotify:track:6KywfgRqvgvfJc3JRwaZdZ";
     private static final String TEST_SONG_MONO_URI = "spotify:track:1FqY3uJypma5wkYw66QOUi";
     private static final String TEST_SONG_48kHz_URI = "spotify:track:3wxTNS3aqb9RbBLZgJdZgH";

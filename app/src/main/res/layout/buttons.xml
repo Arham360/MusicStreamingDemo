@@ -14,7 +14,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="@string/no_metadata"/>
+        android:text="@string/no_metadata"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/login_button"
