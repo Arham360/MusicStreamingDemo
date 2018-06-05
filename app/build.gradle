@@ -36,4 +36,5 @@ dependencies {
     implementation 'com.spotify.android:auth:1.0.0-alpha'
     implementation 'com.spotify.sdk:spotify-player-24-noconnect-2.20b@aar'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    implementation 'com.airbnb.android:lottie:2.5.4'
 }
